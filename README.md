@@ -1,7 +1,9 @@
 <h1 align="center">Hi! I'm Dean (Yuanyao) Lin</h1>
 <h3 align="center">A passionate full-stack developer!</h3>
 🌱 I’m currently learning React + ThreeJS
+<br>
 👨‍💻 All of my projects are available at ...
+<br>
 📫 How to reach me yuanyaolin13@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
